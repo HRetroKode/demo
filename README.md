@@ -1,3 +1,6 @@
 NOW MERGING changes from the entourage branch onto master.
 recipe: switch to new branch, make some changes.
-then switch back to master, then do a gitty merge entourage
+I hope so.
+
+[THIS LINE WILL NOT BE STASHED AWAY].
+icecream.2224892  007
